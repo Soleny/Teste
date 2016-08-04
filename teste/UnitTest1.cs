@@ -12,7 +12,6 @@ namespace teste
             Assert.AreEqual(true, true);
 
             //Teste de comentario
-
         }
     }
 }
